@@ -3,7 +3,8 @@
     "MafuMafu.json",
     "SkyLeaMoe.json",
     "Veela.json",
-    "NutCrackers.json"
+    "NutCrackers.json",
+    "RemuBakery.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
