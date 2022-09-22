@@ -1,7 +1,8 @@
 {
   "packs": [
     "MafuMafu.json",
-    "SkyLeaMoe.json"
+    "SkyLeaMoe.json",
+    "Veela.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
